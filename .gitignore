@@ -1,0 +1,15 @@
+# Ignore Python virtual environments
+venv/
+__pycache__/
+.env
+
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore compiled files
+*.pyc
+*.pyo
+*.log
+
+# Ignore VSCode settings
+.vscode/
